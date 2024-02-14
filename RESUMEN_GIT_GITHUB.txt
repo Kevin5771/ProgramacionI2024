@@ -10,14 +10,17 @@ Nombre: Kevin Josué Gutierrez Linares			No. De Carnet: 0907-23-1166
 Resumen Git y Github
 
 1. ¿Qué es GIT?
-Git es un sistema de control de versiones distribuido de código abierto que se utiliza para gestionar el desarrollo de software y el seguimiento de cambios en archivos y carpetas a lo largo del tiempo, Git es sistema de control que permite a los desarrolladores trabajar en colaboración en proyectos de manera remota.
+Git es un sistema de control de versiones distribuido de código abierto que se utiliza para gestionar el desarrollo de software y 
+el seguimiento de cambios en archivos y carpetas a lo largo del tiempo, Git es sistema de control que permite a los desarrolladores 
+trabajar en colaboración en proyectos de manera remota.
 
 2. ¿Cuáles son los comandos más importantes y para que sirven?
 git init: Inicia un nuevo repositorio Git en el directorio actual.
 git clone: Clona un repositorio Git existente en un nuevo directorio local.
 git add: Agrega cambios al área de preparación para que se incluyan en el próximo commit.
 git commit: Registra los cambios realizados en el repositorio, creando un nuevo commit con un mensaje descriptivo.
-git status: Muestra el estado actual del repositorio, incluyendo archivos modificados, archivos en el área de preparación y archivos no rastreados.
+git status: Muestra el estado actual del repositorio, incluyendo archivos modificados, archivos en el área de preparación y 
+archivos no rastreados.
 git branch: Lista, crea o elimina ramas en el repositorio.
 git checkout: Cambia entre ramas o restaura archivos del árbol de trabajo.
 git merge: Fusiona cambios de una rama a otra.
