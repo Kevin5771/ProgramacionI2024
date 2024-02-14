@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\bin\Debug\net8.0\MiBiblioteca.deps.json
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\bin\Debug\net8.0\MiBiblioteca.dll
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\bin\Debug\net8.0\MiBiblioteca.pdb
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.dll
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\refint\MiBiblioteca.dll
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\MiBiblioteca.pdb
+C:\Users\kevin\source\repos\Sesisón1\MiBiblioteca\obj\Debug\net8.0\ref\MiBiblioteca.dll

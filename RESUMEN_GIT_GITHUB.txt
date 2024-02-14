@@ -1,0 +1,41 @@
+Universidad Mariano Gálvez de Guatemala 
+Centro Universitario de Jalapa 
+Carrera: Ingeniería en Sistemas  
+Curso: Programación I 
+Docente: Marco Tulio Valdez Albizurez
+
+Nombre: Kevin Josué Gutierrez Linares			No. De Carnet: 0907-23-1166
+
+Resumen Git y Github
+
+1. ¿Qué es GIT?
+Git es un sistema de control de versiones distribuido de código abierto que se utiliza para gestionar el desarrollo de software y el seguimiento de cambios en archivos y carpetas a lo largo del tiempo, Git es sistema de control que permite a los desarrolladores trabajar en colaboración en proyectos de manera remota.
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+git init: Inicia un nuevo repositorio Git en el directorio actual.
+git clone: Clona un repositorio Git existente en un nuevo directorio local.
+git add: Agrega cambios al área de preparación para que se incluyan en el próximo commit.
+git commit: Registra los cambios realizados en el repositorio, creando un nuevo commit con un mensaje descriptivo.
+git status: Muestra el estado actual del repositorio, incluyendo archivos modificados, archivos en el área de preparación y archivos no rastreados.
+git branch: Lista, crea o elimina ramas en el repositorio.
+git checkout: Cambia entre ramas o restaura archivos del árbol de trabajo.
+git merge: Fusiona cambios de una rama a otra.
+git push: Envía los cambios locales a un repositorio remoto.
+git pull: Recupera los cambios de un repositorio remoto y los fusiona con la rama local.
+git remote: Administra conexiones con repositorios remotos.
+
+3. ¿Cuál es la diferencia entre Git y Github?
+La diferencia fundamental entre Git y GitHub radica en su naturaleza y papel en el desarrollo de software. Git es un sistema de control de versiones distribuido que permite a los desarrolladores realizar un seguimiento y gestionar los cambios realizados en su código fuente. Por otro lado, GitHub es una plataforma basada en la nube que usa Git como su tecnología subyacente y añade características adicionales como alojamiento de repositorios, colaboración en proyectos, seguimiento de problemas, etc.
+
+
+4. Enumere los comandos para subir cambios a un repositorio.
+Git init Iniciamos de manera Local un repositorio
+Git add Agrega un archivo específico al área de preparación.
+Git commit Crea un nuevo commit con los cambios.
+Git branch masterElegimos la Rama donde trabajaremos nuestro proyecto
+Git remote add origin (enlace del repositorio) le selecciona la Url donde subiremos los cambios al repositorio remoto
+git push origin <rama>: Sube los commits locales al repositorio remoto en la rama especificada.
+
+
+5. ¿Qué es una branch?
+una branch es una línea independiente del desarrollo que se bifurca a partir de una rama principal del repositorio. Esto permite a los desarrolladores trabajar en nuevas características o correcciones sin afectar la rama principal del proyecto (a menudo denominada "main" o "master").
