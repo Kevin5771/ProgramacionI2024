@@ -29,7 +29,11 @@ git pull: Recupera los cambios de un repositorio remoto y los fusiona con la ram
 git remote: Administra conexiones con repositorios remotos.
 
 3. ¿Cuál es la diferencia entre Git y Github?
-La diferencia fundamental entre Git y GitHub radica en su naturaleza y papel en el desarrollo de software. Git es un sistema de control de versiones distribuido que permite a los desarrolladores realizar un seguimiento y gestionar los cambios realizados en su código fuente. Por otro lado, GitHub es una plataforma basada en la nube que usa Git como su tecnología subyacente y añade características adicionales como alojamiento de repositorios, colaboración en proyectos, seguimiento de problemas, etc.
+La diferencia fundamental entre Git y GitHub radica en su naturaleza y papel en el desarrollo de software. Git es
+ un sistema de control de versiones distribuido que permite a los desarrolladores realizar un seguimiento y gestionar los 
+ cambios realizados en su código fuente. Por otro lado, GitHub es una plataforma basada en la nube que usa Git como su 
+ tecnología subyacente y añade características adicionales como alojamiento de repositorios, colaboración en proyectos, 
+ seguimiento de problemas, etc.
 
 
 4. Enumere los comandos para subir cambios a un repositorio.
@@ -42,4 +46,6 @@ git push origin <rama>: Sube los commits locales al repositorio remoto en la ram
 
 
 5. ¿Qué es una branch?
-una branch es una línea independiente del desarrollo que se bifurca a partir de una rama principal del repositorio. Esto permite a los desarrolladores trabajar en nuevas características o correcciones sin afectar la rama principal del proyecto (a menudo denominada "main" o "master").
+una branch es una línea independiente del desarrollo que se bifurca a partir de una rama principal del repositorio. 
+Esto permite a los desarrolladores trabajar en nuevas características o correcciones sin afectar la rama principal del proyecto 
+(a menudo denominada "main" o "master").
