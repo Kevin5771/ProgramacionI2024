@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Sesion_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66507384-F9EE-4033-8BCB-0D12A35B184D}|Sesion_2\\Sesion_2.csproj|c:\\users\\kevin\\source\\repos\\sesion_2\\sesion_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66507384-F9EE-4033-8BCB-0D12A35B184D}|Sesion_2\\Sesion_2.csproj|solutionrelative:sesion_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66507384-F9EE-4033-8BCB-0D12A35B184D}|Sesion_2\\Sesion_2.csproj|c:\\users\\kevin\\source\\repos\\sesion_2\\sesion_2\\pizarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66507384-F9EE-4033-8BCB-0D12A35B184D}|Sesion_2\\Sesion_2.csproj|solutionrelative:sesion_2\\pizarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizarra.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sesion_2\\Sesion_2\\Pizarra.cs",
+              "RelativeDocumentMoniker": "Sesion_2\\Pizarra.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sesion_2\\Sesion_2\\Pizarra.cs",
+              "RelativeToolTip": "Sesion_2\\Pizarra.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T16:04:02.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sesion_2\\Sesion_2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sesion_2\\Sesion_2\\Program.cs",
+              "RelativeToolTip": "Sesion_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:36:28.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

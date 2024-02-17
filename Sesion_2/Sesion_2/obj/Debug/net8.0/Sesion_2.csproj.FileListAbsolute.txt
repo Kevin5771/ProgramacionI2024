@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\bin\Debug\net8.0\Sesion_2.exe
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\bin\Debug\net8.0\Sesion_2.deps.json
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\bin\Debug\net8.0\Sesion_2.runtimeconfig.json
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\bin\Debug\net8.0\Sesion_2.dll
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\bin\Debug\net8.0\Sesion_2.pdb
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.sourcelink.json
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.dll
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\refint\Sesion_2.dll
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.pdb
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\Sesion_2.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Sesion_2\Sesion_2\obj\Debug\net8.0\ref\Sesion_2.dll
