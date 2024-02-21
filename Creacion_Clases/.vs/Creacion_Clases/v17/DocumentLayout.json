@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|c:\\users\\kevin\\source\\repos\\creacion_clases\\creacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|solutionrelative:creacion_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|c:\\users\\kevin\\source\\repos\\creacion_clases\\creacion_clases\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|solutionrelative:creacion_clases\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|c:\\users\\kevin\\source\\repos\\creacion_clases\\creacion_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|solutionrelative:creacion_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|c:\\users\\kevin\\source\\repos\\creacion_clases\\creacion_clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC8E339-E788-480F-8025-5FDB337F990B}|Creacion_Clases\\Creacion_Clases.csproj|solutionrelative:creacion_clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Profesor.cs",
+              "RelativeDocumentMoniker": "Creacion_Clases\\Profesor.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Profesor.cs",
+              "RelativeToolTip": "Creacion_Clases\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T02:54:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Alumno.cs",
+              "RelativeDocumentMoniker": "Creacion_Clases\\Alumno.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Alumno.cs",
+              "RelativeToolTip": "Creacion_Clases\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T02:03:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Creacion_Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Persona.cs",
+              "RelativeToolTip": "Creacion_Clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:59:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Creacion_Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Creacion_Clases\\Creacion_Clases\\Program.cs",
+              "RelativeToolTip": "Creacion_Clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:51:26.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

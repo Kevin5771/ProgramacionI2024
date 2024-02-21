@@ -1,0 +1,12 @@
+Clase Departamento: Para representar los diferentes departamentos académicos dentro de la institución. Como en una Universidad 
+serían Facultades 
+Atributos:
+	Directores
+	Coordinadores
+	Docentes
+
+Clase Directivo: Para representar a coordinadores de una Universidad.
+Atributos:
+	Permisos
+	Titulos
+	Método Supervisar

@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.sourcelink.json
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\bin\Debug\net8.0\Creacion_Clases.exe
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\bin\Debug\net8.0\Creacion_Clases.deps.json
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\bin\Debug\net8.0\Creacion_Clases.runtimeconfig.json
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\bin\Debug\net8.0\Creacion_Clases.dll
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\bin\Debug\net8.0\Creacion_Clases.pdb
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.dll
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\refint\Creacion_Clases.dll
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.pdb
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\Creacion_Clases.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Creacion_Clases\Creacion_Clases\obj\Debug\net8.0\ref\Creacion_Clases.dll
