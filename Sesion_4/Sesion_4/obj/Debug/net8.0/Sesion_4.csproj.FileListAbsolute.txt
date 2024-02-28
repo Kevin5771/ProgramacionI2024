@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.sourcelink.json
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\bin\Debug\net8.0\Sesion_4.exe
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\bin\Debug\net8.0\Sesion_4.deps.json
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\bin\Debug\net8.0\Sesion_4.runtimeconfig.json
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\bin\Debug\net8.0\Sesion_4.dll
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\bin\Debug\net8.0\Sesion_4.pdb
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.dll
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\refint\Sesion_4.dll
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.pdb
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\Sesion_4.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Sesion_4\Sesion_4\obj\Debug\net8.0\ref\Sesion_4.dll
