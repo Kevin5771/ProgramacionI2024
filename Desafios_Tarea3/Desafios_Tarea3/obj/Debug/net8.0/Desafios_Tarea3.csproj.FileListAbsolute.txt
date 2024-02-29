@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\bin\Debug\net8.0\Desafios_Tarea3.exe
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\bin\Debug\net8.0\Desafios_Tarea3.deps.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\bin\Debug\net8.0\Desafios_Tarea3.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\bin\Debug\net8.0\Desafios_Tarea3.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\bin\Debug\net8.0\Desafios_Tarea3.pdb
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.sourcelink.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\refint\Desafios_Tarea3.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.pdb
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\Desafios_Tarea3.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafios_Tarea3\obj\Debug\net8.0\ref\Desafios_Tarea3.dll

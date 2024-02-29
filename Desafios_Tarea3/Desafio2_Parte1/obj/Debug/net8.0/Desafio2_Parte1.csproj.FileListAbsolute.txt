@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\bin\Debug\net8.0\Desafio2_Parte1.exe
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\bin\Debug\net8.0\Desafio2_Parte1.deps.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\bin\Debug\net8.0\Desafio2_Parte1.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\bin\Debug\net8.0\Desafio2_Parte1.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\bin\Debug\net8.0\Desafio2_Parte1.pdb
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.sourcelink.json
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\refint\Desafio2_Parte1.dll
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.pdb
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\Desafio2_Parte1.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafios_Tarea3\Desafio2_Parte1\obj\Debug\net8.0\ref\Desafio2_Parte1.dll
