@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\bin\Debug\net8.0\CajeroAutomatico.exe
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\bin\Debug\net8.0\CajeroAutomatico.deps.json
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\bin\Debug\net8.0\CajeroAutomatico.runtimeconfig.json
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\bin\Debug\net8.0\CajeroAutomatico.dll
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\bin\Debug\net8.0\CajeroAutomatico.pdb
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.sourcelink.json
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.dll
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\refint\CajeroAutomatico.dll
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.pdb
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\kevin\source\repos\PrimerParcaial\PrimerParcaial\obj\Debug\net8.0\ref\CajeroAutomatico.dll

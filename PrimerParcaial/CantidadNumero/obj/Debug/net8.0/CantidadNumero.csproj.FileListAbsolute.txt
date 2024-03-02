@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\bin\Debug\net8.0\CantidadNumero.exe
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\bin\Debug\net8.0\CantidadNumero.deps.json
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\bin\Debug\net8.0\CantidadNumero.runtimeconfig.json
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\bin\Debug\net8.0\CantidadNumero.dll
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\bin\Debug\net8.0\CantidadNumero.pdb
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.AssemblyInfo.cs
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.sourcelink.json
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.dll
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\refint\CantidadNumero.dll
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.pdb
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\CantidadNumero.genruntimeconfig.cache
+C:\Users\kevin\source\repos\PrimerParcaial\CantidadNumero\obj\Debug\net8.0\ref\CantidadNumero.dll
