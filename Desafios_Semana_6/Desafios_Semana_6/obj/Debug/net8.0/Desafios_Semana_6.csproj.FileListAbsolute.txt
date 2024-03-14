@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\bin\Debug\net8.0\Desafios_Semana_6.exe
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\bin\Debug\net8.0\Desafios_Semana_6.deps.json
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\bin\Debug\net8.0\Desafios_Semana_6.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\bin\Debug\net8.0\Desafios_Semana_6.dll
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\bin\Debug\net8.0\Desafios_Semana_6.pdb
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.sourcelink.json
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.dll
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\refint\Desafios_Semana_6.dll
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.pdb
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\Desafios_Semana_6.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafios_Semana_6\Desafios_Semana_6\obj\Debug\net8.0\ref\Desafios_Semana_6.dll

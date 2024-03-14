@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Desafios_Semana_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD715E8F-F5A3-438F-A632-1D1277F6C6E3}|Semana_6_Desafio_5\\Semana_6_Desafio_5.csproj|c:\\users\\kevin\\source\\repos\\desafios_semana_6\\semana_6_desafio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD715E8F-F5A3-438F-A632-1D1277F6C6E3}|Semana_6_Desafio_5\\Semana_6_Desafio_5.csproj|solutionrelative:semana_6_desafio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6411937-3840-4C80-BFDF-EBCEA7F7C31D}|Desafios_Semana_6\\Desafios_Semana_6.csproj|c:\\users\\kevin\\source\\repos\\desafios_semana_6\\desafios_semana_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6411937-3840-4C80-BFDF-EBCEA7F7C31D}|Desafios_Semana_6\\Desafios_Semana_6.csproj|solutionrelative:desafios_semana_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Desafios_Semana_6\\Semana_6_Desafio_5\\Program.cs",
+              "RelativeDocumentMoniker": "Semana_6_Desafio_5\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Desafios_Semana_6\\Semana_6_Desafio_5\\Program.cs",
+              "RelativeToolTip": "Semana_6_Desafio_5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:45:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Desafios_Semana_6\\Desafios_Semana_6\\Program.cs",
+              "RelativeDocumentMoniker": "Desafios_Semana_6\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Desafios_Semana_6\\Desafios_Semana_6\\Program.cs",
+              "RelativeToolTip": "Desafios_Semana_6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:45:31.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
