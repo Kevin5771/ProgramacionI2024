@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\bin\Debug\net8.0\Desafio_3.exe
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\bin\Debug\net8.0\Desafio_3.deps.json
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\bin\Debug\net8.0\Desafio_3.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\bin\Debug\net8.0\Desafio_3.dll
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\bin\Debug\net8.0\Desafio_3.pdb
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.sourcelink.json
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.dll
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\refint\Desafio_3.dll
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.pdb
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\Desafio_3.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafios-Semana7\Desafio_3\obj\Debug\net8.0\ref\Desafio_3.dll
