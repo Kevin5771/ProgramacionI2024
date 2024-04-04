@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.sourcelink.json
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\bin\Debug\net8.0\Desafio_1.exe
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\bin\Debug\net8.0\Desafio_1.deps.json
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\bin\Debug\net8.0\Desafio_1.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\bin\Debug\net8.0\Desafio_1.dll
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\bin\Debug\net8.0\Desafio_1.pdb
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.dll
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\refint\Desafio_1.dll
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.pdb
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\Desafio_1.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafios-Semana7-Herencia\Desafio-1\obj\Debug\net8.0\ref\Desafio_1.dll
