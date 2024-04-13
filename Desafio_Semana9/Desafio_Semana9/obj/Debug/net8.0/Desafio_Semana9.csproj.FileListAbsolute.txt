@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\bin\Debug\net8.0\Desafio_Semana9.exe
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\bin\Debug\net8.0\Desafio_Semana9.deps.json
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\bin\Debug\net8.0\Desafio_Semana9.runtimeconfig.json
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\bin\Debug\net8.0\Desafio_Semana9.dll
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\bin\Debug\net8.0\Desafio_Semana9.pdb
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.sourcelink.json
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.dll
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\refint\Desafio_Semana9.dll
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.pdb
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\Desafio_Semana9.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Desafio_Semana9\Desafio_Semana9\obj\Debug\net8.0\ref\Desafio_Semana9.dll
