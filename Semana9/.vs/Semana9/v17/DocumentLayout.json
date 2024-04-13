@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Semana9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE47F87C-E83E-484B-B5A3-3193AA5A1E1C}|Semana9\\Semana9.csproj|c:\\users\\kevin\\source\\repos\\semana9\\semana9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE47F87C-E83E-484B-B5A3-3193AA5A1E1C}|Semana9\\Semana9.csproj|solutionrelative:semana9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|c:\\users\\kevin\\source\\repos\\semana9\\modificadoracceso\\demostracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|solutionrelative:modificadoracceso\\demostracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|c:\\users\\kevin\\source\\repos\\semana9\\modificadoracceso\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|solutionrelative:modificadoracceso\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|c:\\users\\kevin\\source\\repos\\semana9\\modificadoracceso\\claseheredada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F026BC7A-C2D5-4A75-9EBB-C575039F2BD0}|ModificadorAcceso\\ModificadorAcceso.csproj|solutionrelative:modificadoracceso\\claseheredada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaseHeredada.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\ClaseHeredada.cs",
+              "RelativeDocumentMoniker": "ModificadorAcceso\\ClaseHeredada.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\ClaseHeredada.cs",
+              "RelativeToolTip": "ModificadorAcceso\\ClaseHeredada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:54:03.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demostracion.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\Demostracion.cs",
+              "RelativeDocumentMoniker": "ModificadorAcceso\\Demostracion.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\Demostracion.cs",
+              "RelativeToolTip": "ModificadorAcceso\\Demostracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:29:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana9\\Semana9\\Program.cs",
+              "RelativeDocumentMoniker": "Semana9\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana9\\Semana9\\Program.cs",
+              "RelativeToolTip": "Semana9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:24:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\Class1.cs",
+              "RelativeDocumentMoniker": "ModificadorAcceso\\Class1.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana9\\ModificadorAcceso\\Class1.cs",
+              "RelativeToolTip": "ModificadorAcceso\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:28:49.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
