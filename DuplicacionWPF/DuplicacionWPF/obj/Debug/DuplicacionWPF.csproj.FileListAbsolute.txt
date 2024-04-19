@@ -1,0 +1,10 @@
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.Form1.resources
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.Properties.Resources.resources
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\bin\Debug\DuplicacionWPF.exe.config
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\bin\Debug\DuplicacionWPF.exe
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\bin\Debug\DuplicacionWPF.pdb
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.exe
+C:\Users\kevin\source\repos\DuplicacionWPF\DuplicacionWPF\obj\Debug\DuplicacionWPF.pdb
