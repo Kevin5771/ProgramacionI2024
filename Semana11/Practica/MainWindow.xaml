@@ -1,0 +1,40 @@
+﻿<Window x:Class="Practica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <ListBox x:Name="listBox" Margin="15" Width="100" Height="130">
+            </ListBox>
+        </StackPanel>
+
+        <StackPanel>
+            <ComboBox Name="ComboBoxColores" Margin="200">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Fill="{Binding Name}" Width="32" Height="32" Margin="5"/>
+                            <TextBlock Text="{Binding Name}" FontSize="32"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel>
+            <ListBox x:Name="listBox1" Margin="15" Width="100" Height="130">
+            </ListBox>
+            <Button Content="Mostrar Detalles" Click="MostrarDetalles" Margin="15"/>
+        </StackPanel>
+
+        <StackPanel Margin="100,235,100,100">
+            <Label HorizontalAlignment="Center" Margin="0">Passworbox</Label>
+            <PasswordBox  x:Name="PasswordBox" Width="175" Height="30" Margin="10"/>
+            <Button Content="Mostrar Contraseña" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

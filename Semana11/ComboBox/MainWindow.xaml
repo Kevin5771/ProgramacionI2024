@@ -1,0 +1,40 @@
+﻿<Window x:Class="ComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <ComboBox Name="ComboBoxColores">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Fill="{Binding Name}" Width="32" Height="32" Margin="5"/>
+                            <TextBlock Text="{Binding Name}" FontSize="32"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <Label Margin="50">Ejemplo CheckBox</Label>
+        <StackPanel Margin="100">
+            <CheckBox x:Name="cbtodos" Checked="cbtodos_Checked" Unchecked="cbtodos_Checked" IsThreeState="True">Todos</CheckBox>
+            <StackPanel>
+                <CheckBox x:Name="Cbopcion1" Checked="cbOpcion_Checked" Unchecked="cbOpcion_Checked">Opción 1</CheckBox>
+                <CheckBox x:Name="Cbopcion2" Checked="cbOpcion_Checked" Unchecked="cbOpcion_Checked">Opción 2</CheckBox>
+                <CheckBox x:Name="Cbopcion3" Checked="cbOpcion_Checked" Unchecked="cbOpcion_Checked">Opción 3</CheckBox>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Margin="50,25,50,25">
+            <Button Content="Boton Con ToolTip" Margin="125" Width="150" Height="50">
+                <Button.ToolTip>
+                    <ToolTip Content="Este es un Tool Tip" />
+                </Button.ToolTip>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
