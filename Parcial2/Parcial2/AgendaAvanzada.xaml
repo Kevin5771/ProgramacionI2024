@@ -1,0 +1,25 @@
+﻿<Window x:Class="Parcial2.AgendaAvanzada"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Parcial2"
+        mc:Ignorable="d"
+        Title="AgendaAvanzada" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Agenda" HorizontalAlignment="Center"/>
+            <TextBox x:Name="txtNombre" Text="Nombre de la tarea: "/>
+            <TextBox x:Name="txtDescripcion" Text="Descripción: "/>
+            <DatePicker x:Name="datePickerFecha" SelectedDate="{Binding FechaSeleccionada}" Margin="5"/>
+            <Button Content="Agregar Tarea" Click="BtnAgregar_Click" Width="200" Margin="5"/>
+            <Button Content="Eliminar Tarea" Click="BtnEliminar_Click" Width="200" Margin="5"/>
+            <ListBox x:Name="listBoxTareas" Width="200" Height="150"/>
+            <Button Content="Mostrar Detalles" Click="MostrarDetalles_Click" Width="200" Margin="5"/>
+            <Button Content="Marcar como Completada" Click="MarcarComoCompletada_Click" Width="200" Margin="5"/>
+            <Button Content="Asignar Responsable" Click="AsignarResponsable_Click" Width="200" Margin="5"/>
+        </StackPanel>
+
+
+    </Grid>
+</Window>
