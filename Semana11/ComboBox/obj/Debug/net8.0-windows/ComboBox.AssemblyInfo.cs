@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComboBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+854217f456bdfe67d86e2673b9bc64b991c48955")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e50c60a4a31b6402243656d47a0ef2deff56ac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComboBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComboBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

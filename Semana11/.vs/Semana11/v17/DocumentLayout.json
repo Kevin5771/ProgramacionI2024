@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Semana11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89647C4F-7885-4602-AD0F-B20EA1B873F7}|Practica\\Practica.csproj|c:\\users\\kevin\\source\\repos\\semana11\\practica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89647C4F-7885-4602-AD0F-B20EA1B873F7}|Practica\\Practica.csproj|solutionrelative:practica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|c:\\users\\kevin\\source\\repos\\semana11\\wpfapp2\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|c:\\users\\kevin\\source\\repos\\semana11\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|c:\\users\\kevin\\source\\repos\\semana11\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A17D1A70-612C-4E5B-9E37-E85006FA37C3}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89647C4F-7885-4602-AD0F-B20EA1B873F7}|Practica\\Practica.csproj|c:\\users\\kevin\\source\\repos\\semana11\\practica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -18,19 +26,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T01:33:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana11\\Practica\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Practica\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana11\\Practica\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Practica\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwD0AAAAJAAAA",
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\Suma.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Suma.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\Suma.cs",
+              "RelativeToolTip": "WpfApp2\\Suma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T02:14:18.189Z",
+              "WhenOpened": "2024-04-27T01:46:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Semana11\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:33:42.99Z",
               "EditorCaption": ""
             }
           ]
@@ -45,7 +78,7 @@
         "Display": 0,
         "X": 32,
         "Y": 68,
-        "Width": 1271,
+        "Width": 1270,
         "Height": 765,
         "WindowState": 0
       },
@@ -56,7 +89,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Semana11\\Practica\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Practica\\MainWindow.xaml",

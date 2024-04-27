@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semana11", "Semana11\Semana
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2AF6E3CE-507F-4B15-AFFE-97BE8B554467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox", "ComboBox\ComboBox.csproj", "{FF401373-5C3D-462F-948E-23E7A5222CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComboBox", "ComboBox\ComboBox.csproj", "{FF401373-5C3D-462F-948E-23E7A5222CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBox", "PasswordBox\PasswordBox.csproj", "{52BE5123-1996-4594-8D96-74E93FB6DEC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordBox", "PasswordBox\PasswordBox.csproj", "{52BE5123-1996-4594-8D96-74E93FB6DEC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica", "Practica\Practica.csproj", "{89647C4F-7885-4602-AD0F-B20EA1B873F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica", "Practica\Practica.csproj", "{89647C4F-7885-4602-AD0F-B20EA1B873F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{A17D1A70-612C-4E5B-9E37-E85006FA37C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{89647C4F-7885-4602-AD0F-B20EA1B873F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89647C4F-7885-4602-AD0F-B20EA1B873F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89647C4F-7885-4602-AD0F-B20EA1B873F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17D1A70-612C-4E5B-9E37-E85006FA37C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17D1A70-612C-4E5B-9E37-E85006FA37C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17D1A70-612C-4E5B-9E37-E85006FA37C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17D1A70-612C-4E5B-9E37-E85006FA37C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
