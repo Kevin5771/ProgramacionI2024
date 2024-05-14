@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WpfApp2
 {
-    class Suma : INotifyPropertyChanged
+    public class Suma : INotifyPropertyChanged
     {
 
         private string num1;
@@ -78,6 +78,11 @@ namespace WpfApp2
             {
                 PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
             }
+        }
+
+        protected int Multiplicar(int num1)
+        {
+            return num1;
         }
     }
 }
