@@ -1,0 +1,27 @@
+﻿<Window x:Class="CRUD.UpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUD"
+        mc:Ignorable="d"
+        Title="UpdateWindow" Height="450" Width="800">
+    <Grid>
+                <TextBox x:Name="txtCliente" HorizontalAlignment="Center" Margin="0,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="265,101,0,0" TextWrapping="Wrap" Text="Cliente:" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <TextBox x:Name="txtidProduct" HorizontalAlignment="Center" Margin="0,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="265,141,0,0" TextWrapping="Wrap" Text="Id Prodcuto" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <TextBox x:Name="Cantidad" HorizontalAlignment="Center" Margin="0,219,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="265,221,0,0" TextWrapping="Wrap" Text="Cantidad" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <TextBox x:Name="Precio" HorizontalAlignment="Center" Margin="0,268,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy2" HorizontalAlignment="Left" Margin="265,270,0,0" TextWrapping="Wrap" Text="Precio" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy3" HorizontalAlignment="Left" Margin="265,68,0,0" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <Button x:Name="btnCrear" Content="Guardar" HorizontalAlignment="Center" Margin="0,313,0,0" VerticalAlignment="Top" Click="btnCrear_Click"/>
+        <TextBlock x:Name="textBlock_Copy4" HorizontalAlignment="Left" Margin="265,185,0,0" TextWrapping="Wrap" Text="Productos" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <ComboBox x:Name="cbCarreras" SelectedValue="{Binding IdProducto, Mode=OneWay}"  
+            DisplayMemberPath="NombreProducto"
+            SelectedValuePath="Id"
+            HorizontalAlignment="Center" Margin="0,179,0,0" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>
