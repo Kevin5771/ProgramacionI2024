@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ventanas.Cliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ventanas"
+        mc:Ignorable="d"
+        Title="Cliente" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtCliente" HorizontalAlignment="Center" Margin="0,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="265,101,0,0" TextWrapping="Wrap" Text="Cliente:" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <TextBox x:Name="txtDireccion" HorizontalAlignment="Center" Margin="0,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="265,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"><Run Language="es-es" Text="Dirección"/></TextBlock>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Center" Margin="0,219,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="265,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"><Run Language="es-es" Text="Email"/></TextBlock>
+        <TextBox x:Name="txtId" HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="textBlock_Copy3" HorizontalAlignment="Left" Margin="265,68,0,0" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"/>
+        <Button x:Name="btnCrear" Content="Guardar" HorizontalAlignment="Center" Margin="0,284,0,0" VerticalAlignment="Top" Click="btnCrear_Click" Width="170" Height="42" Background="#008000" Foreground="White"/>
+        <TextBlock x:Name="textBlock_Copy4" HorizontalAlignment="Left" Margin="265,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.243,-0.67"><Run Language="es-es" Text="Telefono"/></TextBlock>
+        <TextBox x:Name="txtTelefono" HorizontalAlignment="Center" Margin="0,184,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

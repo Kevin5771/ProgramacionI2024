@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Prueba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\kevin\\source\\repos\\prueba1\\ventanas\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\kevin\\source\\repos\\prueba1\\ventanas\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\kevin\\source\\repos\\prueba1\\ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\kevin\\source\\repos\\prueba1\\ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\Cliente.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\Cliente.xaml",
+              "RelativeToolTip": "Ventanas\\Cliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T04:11:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Ventanas\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\DataAccess.cs",
+              "RelativeToolTip": "Ventanas\\DataAccess.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwHYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:04:57.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ventanas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ventanas\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:03:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Prueba1\\Ventanas\\MainWindow.xaml",
+              "RelativeToolTip": "Ventanas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T04:03:28.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

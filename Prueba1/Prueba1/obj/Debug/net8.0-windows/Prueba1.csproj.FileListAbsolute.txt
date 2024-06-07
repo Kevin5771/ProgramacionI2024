@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1_MarkupCompile.cache
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.g.resources
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Prueba1\Prueba1\obj\Debug\net8.0-windows\Prueba1.sourcelink.json
