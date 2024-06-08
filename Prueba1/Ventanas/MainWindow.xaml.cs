@@ -42,10 +42,6 @@ namespace Ventanas
             recoverData();
         }
 
-        private void updateBtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
 
         private void deleteBtn_Click(object sender, RoutedEventArgs e)
         {
@@ -63,6 +59,9 @@ namespace Ventanas
 
         private void Button_Click1(object sender, RoutedEventArgs e)
         {
+            Productos insertWindow = new Productos();
+            insertWindow.Show();
+            insertWindow.Closed += Window_Closed;
 
         }
 

@@ -55,7 +55,7 @@ namespace Ventanas
             if (messageBoxResult == MessageBoxResult.Yes)
             {
                 DataAccess dataAccess = new DataAccess();
-                dataAccess.Delete(id);
+                dataAccess.DeleteCliente(id);
                 MessageBox.Show("El registro ha sido eliminado");
                 recoverData();
 

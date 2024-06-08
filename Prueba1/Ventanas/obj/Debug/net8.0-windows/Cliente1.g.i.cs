@@ -64,7 +64,7 @@ namespace Ventanas {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Ventanas;V1.0.0.0;component/cliente1.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Ventanas;component/cliente1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Cliente1.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

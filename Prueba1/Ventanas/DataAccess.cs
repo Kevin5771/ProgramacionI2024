@@ -14,7 +14,7 @@ namespace Prueba1
     public class DataAccess
     {
 
-        private const string ConnectionString = "Server=DELL_G15\\MSSQLSERVER01;Integrated Security=true;Initial Catalog=PEDIDO";
+        private const string ConnectionString = "Server=DELL_G15\\MSSQLSERVER01;Integrated Security=true;Initial Catalog=PEDIDO1";
 
 
         public List<InformacionDestacada> GetInformacionDestacada()
@@ -106,11 +106,11 @@ namespace Prueba1
                 {
                     conn.Open();
 
-                    string query = "INSERT INTO Clientes (Nombre, Direccion, Telefono, Email) VALUES (@Nombre, @Direccion, @Telefono, @Email)";
+                    string query = "INSERT INTO Clientes (Id, Nombre, Direccion, Telefono, Email) VALUES (@Id, @Nombre, @Direccion, @Telefono, @Email)";
 
                     result = conn.Execute(query, new
                     {
-                        id1 = cliente.Id,
+                        //id1 = cliente.Id,
                         cliente = cliente.Nombre,
                         idproduct = cliente.Direccion,
                         Cantidad = cliente.Telefono,
@@ -379,7 +379,6 @@ namespace Prueba1
 
             return list;
 
-            
 
         }
 
@@ -422,12 +421,26 @@ namespace Prueba1
             }
         }
 
-        public void DeleteDetallePedido(int id)
+        public int DeleteDetallePedido(int id)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+            try
             {
-                connection.Execute("DELETE FROM DetallePedidos WHERE Id = @Id", new { Id = id });
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "DELETE FROM DetallePedidos WHERE Id = @Id";
+
+                    result = conn.Execute(query, new { Id = id });
+
+                }
             }
+            catch (SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return result;
         }
     }
 }

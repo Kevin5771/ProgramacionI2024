@@ -34,3 +34,7 @@ C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Cliente.g.
 C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Cliente1.g.cs
 C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Cliente.baml
 C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Cliente1.baml
+C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\InsertProducto.g.cs
+C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Productos.g.cs
+C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\InsertProducto.baml
+C:\Users\kevin\source\repos\Prueba1\Ventanas\obj\Debug\net8.0-windows\Productos.baml
