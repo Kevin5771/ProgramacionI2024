@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\cliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\updatecliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\updatecliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}|DATOS\\DATOS.csproj|C:\\Users\\kevin\\source\\repos\\FINAL\\datos\\d_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}|DATOS\\DATOS.csproj|solutionrelative:datos\\d_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\updatecliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\updatecliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\insertcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\insertcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\insertcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\insertcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\insertproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\insertproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|c:\\users\\kevin\\source\\repos\\final\\final\\insertpedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87AF1F60-DB20-4CAD-8084-256543D4421B}|FINAL\\FINAL.csproj|solutionrelative:final\\insertpedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Cliente.xaml.cs",
+              "RelativeDocumentMoniker": "FINAL\\Cliente.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Cliente.xaml.cs",
+              "RelativeToolTip": "FINAL\\Cliente.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:52:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\UpdateCliente.xaml.cs",
+              "RelativeDocumentMoniker": "FINAL\\UpdateCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\UpdateCliente.xaml.cs",
+              "RelativeToolTip": "FINAL\\UpdateCliente.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:41:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\UpdateCliente.xaml",
+              "RelativeDocumentMoniker": "FINAL\\UpdateCliente.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\UpdateCliente.xaml",
+              "RelativeToolTip": "FINAL\\UpdateCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:40:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\DATOS\\D_Cliente.cs",
+              "RelativeDocumentMoniker": "DATOS\\D_Cliente.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\DATOS\\D_Cliente.cs",
+              "RelativeToolTip": "DATOS\\D_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:33:50.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertCliente.xaml.cs",
+              "RelativeDocumentMoniker": "FINAL\\InsertCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertCliente.xaml.cs",
+              "RelativeToolTip": "FINAL\\InsertCliente.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:32:00.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertCliente.xaml",
+              "RelativeDocumentMoniker": "FINAL\\InsertCliente.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertCliente.xaml",
+              "RelativeToolTip": "FINAL\\InsertCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:31:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Insertproducto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Insertproducto.xaml.cs",
+              "RelativeDocumentMoniker": "FINAL\\Insertproducto.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Insertproducto.xaml.cs",
+              "RelativeToolTip": "FINAL\\Insertproducto.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:30:29.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsertPedidos.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertPedidos.xaml",
+              "RelativeDocumentMoniker": "FINAL\\InsertPedidos.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\InsertPedidos.xaml",
+              "RelativeToolTip": "FINAL\\InsertPedidos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:28:30.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedidos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Pedidos.xaml.cs",
+              "RelativeDocumentMoniker": "FINAL\\Pedidos.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Pedidos.xaml.cs",
+              "RelativeToolTip": "FINAL\\Pedidos.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:26:10.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedidos.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Pedidos.xaml",
+              "RelativeDocumentMoniker": "FINAL\\Pedidos.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\Pedidos.xaml",
+              "RelativeToolTip": "FINAL\\Pedidos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:18:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "FINAL\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FINAL\\FINAL\\DataAccess.cs",
+              "RelativeToolTip": "FINAL\\DataAccess.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAI0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:38:14.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

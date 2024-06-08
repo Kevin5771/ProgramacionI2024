@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINAL", "FINAL\FINAL.csproj", "{87AF1F60-DB20-4CAD-8084-256543D4421B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATOS", "DATOS\DATOS.csproj", "{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AF1F60-DB20-4CAD-8084-256543D4421B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AF1F60-DB20-4CAD-8084-256543D4421B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AF1F60-DB20-4CAD-8084-256543D4421B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AF1F60-DB20-4CAD-8084-256543D4421B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD60292-4A6E-4B41-8E32-15CAAC85FC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115E5B85-199B-40D1-A30E-658940FCEF09}
+	EndGlobalSection
+EndGlobal

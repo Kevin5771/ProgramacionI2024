@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\DATOS.dll
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\DATOS.pdb
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\Dapper.dll
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\Dapper.xml
+C:\Users\kevin\source\repos\FINAL\DATOS\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kevin\source\repos\FINAL\DATOS\obj\Debug\DATOS.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\FINAL\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\FINAL\DATOS\obj\Debug\DATOS.csproj.Up2Date
+C:\Users\kevin\source\repos\FINAL\DATOS\obj\Debug\DATOS.dll
+C:\Users\kevin\source\repos\FINAL\DATOS\obj\Debug\DATOS.pdb
