@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls.Primitives;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using Ventanas;
 
 namespace Prueba1
 {
@@ -99,10 +100,10 @@ namespace Prueba1
 
         public int InsertCliente(Cliente2 cliente)
         {
-            int result= 0;
+            int result = 0;
             try
             {
-                using (SqlConnection conn= new SqlConnection(ConnectionString))
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
                 {
                     conn.Open();
 
@@ -110,22 +111,27 @@ namespace Prueba1
 
                     result = conn.Execute(query, new
                     {
-                        //id1 = cliente.Id,
-                        cliente = cliente.Nombre,
-                        idproduct = cliente.Direccion,
-                        Cantidad = cliente.Telefono,
-                        precio = cliente.Email,
+                        Id = cliente.Id,
+                        Nombre = cliente.Nombre,
+                        Direccion = cliente.Direccion,
+                        Telefono = cliente.Telefono,
+                        Email = cliente.Email,
                     });
 
-                    conn.Close() ;
+                    conn.Close();
                 }
-            }catch(SqlException ex)
+            }
+            catch (SqlException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"SQL Error: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
             }
             return result;
-
         }
+
 
         public int UpdateCliente(Cliente2 cliente)
         {
@@ -215,29 +221,58 @@ namespace Prueba1
                 using (SqlConnection conn = new SqlConnection(ConnectionString))
                 {
                     conn.Open();
-                    string query = "INSERT INTO Productos(Id,Nombre, Precio) VALUES( @Id, @Nombre, @Precio)";
+                    string query = "INSERT INTO Productos(Id, Nombre, Precio) VALUES(@Id, @Nombre, @Precio)";
 
                     result = conn.Execute(query, new
                     {
                         Id = producto.Id,
-                        Producto = producto.Nombre,
+                        Nombre = producto.Nombre,  // Correctly map the Nombre property
                         Precio = producto.Precio,
                     });
-                    }
+
+                    conn.Close();
+                }
             }
-            catch(SqlException ex) {
-                Console.WriteLine(ex.Message);
+            catch (SqlException ex)
+            {
+                Console.WriteLine($"SQL Error: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
             }
             return result;
-
         }
 
-        public void UpdateProducto(Producto producto)
+
+        public int UpdateProducto(Producto producto)
         {
-            using (var connection = new SqlConnection(ConnectionString))
-            {
-                connection.Execute("UPDATE Productos SET Nombre = @Nombre, Precio = @Precio WHERE Id = @Id", producto);
+            int result = 0;
+
+            try { 
+                using(SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+
+                    conn.Open();
+
+                    string query = "UPDATE Productos SET Nombre = @Nombre, Precio = @Precio WHERE Id = @Id";
+
+
+                    result = conn.Execute(query, new
+                    {
+                        Id = producto.Id,
+                        Cliente = producto.Nombre,
+                        Precio = producto.Precio,
+   
+                    });
+                    conn.Close();
+                }
             }
+            catch( SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return result;  
         }
 
         public int DeleteProducto(int id)
