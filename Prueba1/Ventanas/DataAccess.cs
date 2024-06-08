@@ -7,6 +7,7 @@ using Dapper;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls.Primitives;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Prueba1
 {
@@ -126,7 +127,7 @@ namespace Prueba1
 
         }
 
-        public void UpdateCliente(Cliente2 cliente)
+        public int UpdateCliente(Cliente2 cliente)
         {
             int result = 0;
             try
@@ -154,6 +155,7 @@ namespace Prueba1
             {
                 Console.WriteLine(ex.Message);
             }
+            return result;
 
         }
 
@@ -184,18 +186,50 @@ namespace Prueba1
         // Operaciones CRUD para productos
         public List<Producto> GetAllProductos()
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            List<Producto> list = new List<Producto>();
+
+            try
             {
-                return connection.Query<Producto>("SELECT * FROM Productos").AsList();
+                using(SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+                    string query = "SELECT * FROM Productos";
+
+                    list = conn.Query<Producto>(query).ToList();
+
+                    conn.Close();
+                }
             }
+            catch(SqlException ex) {
+                Console.WriteLine(ex.Message);
+            }
+            return list;
+
         }
 
-        public void InsertProducto(Producto producto)
+        public int InsertProducto(Producto producto)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+            try
             {
-                connection.Execute("INSERT INTO Productos (Nombre, Precio) VALUES (@Nombre, @Precio)", producto);
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+                    string query = "INSERT INTO Productos(Id,Nombre, Precio) VALUES( @Id, @Nombre, @Precio)";
+
+                    result = conn.Execute(query, new
+                    {
+                        Id = producto.Id,
+                        Producto = producto.Nombre,
+                        Precio = producto.Precio,
+                    });
+                    }
             }
+            catch(SqlException ex) {
+                Console.WriteLine(ex.Message);
+            }
+            return result;
+
         }
 
         public void UpdateProducto(Producto producto)
@@ -206,29 +240,84 @@ namespace Prueba1
             }
         }
 
-        public void DeleteProducto(int id)
+        public int DeleteProducto(int id)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+            try
             {
-                connection.Execute("DELETE FROM Productos WHERE Id = @Id", new { Id = id });
+                using(SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+                    string query = "DELETE FROM Productos WHERE Id = @Id";
+
+                    result = conn.Execute(query, new { Id = id });
+
+                    conn.Close();
+
+                }
             }
+            catch (SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return result;
+
         }
 
 
         public List<Pedido> GetAllPedidos()
+
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            List<Pedido> list = new List<Pedido>();
+            try
             {
-                return connection.Query<Pedido>("SELECT * FROM Pedidos").AsList();
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "SELECT * FROM Pedidos";
+
+                    list = conn.Query<Pedido>(query).ToList();
+
+                    conn.Close();
+                }
             }
+            catch(SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return list;
         }
 
-        public void InsertPedido(Pedido pedido)
+        public int InsertPedido(Pedido pedido)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+
+            try
             {
-                connection.Execute("INSERT INTO Pedidos (ClienteId, Fecha) VALUES (@ClienteId, @Fecha)", pedido);
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "INSERT INTO Pedidos (ClienteId, Fecha) VALUES (@ClienteId, @Fecha)";
+
+                    result = conn.Execute(query, new
+                    {
+                        Id = pedido.Id,
+                        clienteId = pedido.ClienteId,
+                        fecha = pedido.Fecha,
+                    });
+
+                    conn.Close();
+                }
             }
+            catch(SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            return result;
+
         }
 
         public void UpdatePedido(Pedido pedido)
@@ -239,29 +328,90 @@ namespace Prueba1
             }
         }
 
-        public void DeletePedido(int id)
+        public int DeletePedido(int id)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+
+            try
             {
-                connection.Execute("DELETE FROM Pedidos WHERE Id = @Id", new { Id = id });
+                using(SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "DELETE FROM Pedidos WHERE Id = @Id";
+
+                    result = conn.Execute(query, new { Id = id });
+
+                    conn.Close();
+                }
             }
+
+            catch (SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return result;
         }
 
         // Operaciones CRUD para detalles de pedidos
         public List<DetallePedido> GetAllDetallesPedidos()
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            List<DetallePedido> list = new List<DetallePedido>();
+
+            try
             {
-                return connection.Query<DetallePedido>("SELECT * FROM DetallePedidos").AsList();
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "SELECT * FROM DetallePedidos";
+
+                    list = conn.Query<DetallePedido>(query).ToList();
+
+                    conn.Close();
+
+                }
             }
+            catch(SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            return list;
+
+            
+
         }
 
-        public void InsertDetallePedido(DetallePedido detallePedido)
+        public int InsertDetallePedido(DetallePedido detallePedido)
         {
-            using (var connection = new SqlConnection(ConnectionString))
+            int result = 0;
+
+            try
             {
-                connection.Execute("INSERT INTO DetallePedidos (PedidoId, ProductoId, Cantidad) VALUES (@PedidoId, @ProductoId, @Cantidad)", detallePedido);
+                using (SqlConnection conn = new SqlConnection(ConnectionString))
+                {
+                    conn.Open();
+
+                    string query = "INSERT INTO DetallePedidos (PedidoId, ProductoId, Cantidad) VALUES (@PedidoId, @ProductoId, @Cantidad)";
+
+                    result = conn.Execute(query, new
+                    {
+                        Id = detallePedido.Id,
+                        pedidoId = detallePedido.PedidoId,
+                        productoId = detallePedido.ProductoId,
+                        cantidad= detallePedido.Cantidad,
+                    });
+
+                    conn.Close();
+
+                }
             }
+            catch( SqlException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+              return result;
         }
 
         public void UpdateDetallePedido(DetallePedido detallePedido)
